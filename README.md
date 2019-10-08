@@ -1,2 +1,2 @@
 # Django_1
-Basic website made using Django, include some webapps too to navigate through the website.
+Basic Blogging website made using Django framework, includes some webapps too for navigating in and around the website.
